@@ -1,4 +1,4 @@
 <p align="center">
-  <img src="./adv/hummingbird.svg">
+  <img width="300" src="./adv/hummingbird.svg">
 </p>
 # Hummingbird
