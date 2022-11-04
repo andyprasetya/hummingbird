@@ -2,4 +2,4 @@
   <img width="196" src="./adv/hummingbird.svg">
 </p>
 
-# Hummingbird
+Hummingbird is a flexible backend server for webmap and PostGIS.
